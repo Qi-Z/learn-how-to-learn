@@ -5,11 +5,13 @@ Notes for learn how to learn course
 * Focused: for familiar
 * Diffused for new ideas (create new neuro connection)
 
-
+<hr>
 * Go back and forth between Focused and diffused mode
 * a little bit every day
 * metaphors very powerful for learning
 * learning difficult things take time
+
+<hr>
 
 # Week 2 Chunking
 
