@@ -15,6 +15,8 @@ Notes for learn how to learn course
 
 <hr>
 
+* Practice makes permanent
+
 # Week 2 Chunking
 
 # Week 3 Procrastination and Memory
