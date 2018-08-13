@@ -36,6 +36,11 @@ Notes for learn how to learn course
 * Practice
 ```
 
+<hr>
+
+* Recall from material
+* DON'T passive reread
+* Side note on margin to synthesize concepts are good idea
 
 # Week 3 Procrastination and Memory
 
