@@ -19,6 +19,24 @@ Notes for learn how to learn course
 
 # Week 2 Chunking
 
+
+* Working memory
+* Chunk: focus, connect
+* Academic learning: create chunks, a network of chunks
+
+<hr>
+
+* Focus on and **connection**
+* Must focus, get rid of all distractions
+* Understand first
+* Learn the context (big picture), so you know which chunk to use. So learning major concepts and then dive in.
+```
+* Focused attention
+* Understanding
+* Practice
+```
+
+
 # Week 3 Procrastination and Memory
 
 # Week 4 Renaissance learning and unlocking your potential
