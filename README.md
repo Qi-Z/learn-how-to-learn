@@ -41,6 +41,13 @@ Notes for learn how to learn course
 * Recall from material
 * DON'T passive reread
 * Side note on margin to synthesize concepts are good idea
+* Illusion of competence (you are not actually learning)
+* Test to make sure you know you learned. Making mistakes helps you learn better.
+
+<hr>
+## Chunking
+* Seeing the big picture
+
 
 # Week 3 Procrastination and Memory
 
